@@ -1,5 +1,5 @@
 # AZYDS0001
-Wallpaper NFT by Azylem - AZYDS0001
+Deroscapes NFA by Azylem - AZYDS0001
 
 Copyright 2022 Azylem. All rights reserved.
 
