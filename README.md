@@ -1,5 +1,5 @@
 # AZYDS0001
-Deroscapes Non-fungible asset (NFA) by Azylem - AZYDS0001
+Deroscapes non-fungible asset (NFA) by Azylem - AZYDS0001
 
 Copyright 2022 Azylem. All rights reserved.
 
