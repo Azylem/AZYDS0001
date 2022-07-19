@@ -1,5 +1,5 @@
-# AZYWP0001
-Wallpaper NFT by Azylem - AZYWP0001
+# AZYDS0001
+Wallpaper NFT by Azylem - AZYDS0001
 
 Copyright 2022 Azylem. All rights reserved.
 
