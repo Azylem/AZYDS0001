@@ -1,5 +1,5 @@
 # AZYDS0001
-Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0001 "Enter The Machine"
+Deroscapes series non-fungible asset (NFA) by Azylem - AZYDS0001 "Enter The Machine v1"
 
 Copyright 2022 Azylem. All rights reserved.
 
